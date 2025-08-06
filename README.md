@@ -16,7 +16,7 @@
 
 ---
 
-##    📊 Tools & Technologies |         📈 GitHub Stats
+## 📊 Tools & Technologies | 📈 GitHub Stats
 
 <table>
 <tr>
@@ -44,10 +44,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashusprojects&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashusprojects&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -55,10 +51,47 @@
 </tr>
 </table>
 
+---
+
+## 🚀 Featured Projects
+
+- 🔹 [Banking System in Python](https://github.com/ashusprojects/Banking-System)  
+  A CLI-based banking app with account creation, deposits, withdrawals, and account blocking.
+
+- 🔹 [MNIST Handwritten Digit Classifier](https://github.com/ashusprojects/MNIST-CNN)  
+  CNN model in TensorFlow to classify handwritten digits (0-9) with high accuracy.
+
+- 🔹 [Titanic Survival Prediction](https://github.com/ashusprojects/Titanic-ML)  
+  Machine learning model to predict survival on the Titanic using data preprocessing and visualization.
 
 ---
 
-<h2 align="center">🤝 Connect</h2>
+## 📚 Currently Learning
+
+- Advanced SQL for data querying
+- Tableau dashboards and storytelling
+- Streamlit for data app deployment
+
+---
+
+## 🌟 2025 Goals
+
+- ✅ Complete 10+ data projects  
+- 🔄 Contribute to 2 open-source repositories  
+- 🧠 Get certified in Tableau or Power BI  
+- 💼 Land a data analyst JOB
+
+---
+
+## 😎 Fun Facts
+
+- 💡 I believe data can tell powerful stories.
+- ⚽ I enjoy football and strategy games.
+- ✨ Always eager to learn new tools and technologies.
+
+---
+
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-kumbhar-904233267" target="_blank">
@@ -68,5 +101,3 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
