@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Tools & Technologies | 📈 GitHub Stats
+##    📊 Tools & Technologies |         📈 GitHub Stats
 
 <table>
 <tr>
