@@ -64,7 +64,7 @@
 
 ## 🌟 2025 Goals
 
-- ✅ Complete 10+ data projects  
+- ✅ Complete 15+ data projects  
 - 🔄 Contribute to 2 open-source repositories  
 - 🧠 Get certified in Tableau or Power BI  
 - 💼 Land a data analyst JOB
@@ -74,7 +74,7 @@
 ## 😎 Fun Facts
 
 - 💡 I believe data can tell powerful stories.
-- ⚽ I enjoy football and strategy games.
+- ⚽ I enjoy Badminton and strategy, action,advanchur  games.
 - ✨ Always eager to learn new tools and technologies.
 
 ---
