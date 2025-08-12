@@ -51,18 +51,6 @@
 </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-- 🔹 [Banking System in Python](https://github.com/ashusprojects/Banking-System)  
-  A CLI-based banking app with account creation, deposits, withdrawals, and account blocking.
-
-- 🔹 [MNIST Handwritten Digit Classifier](https://github.com/ashusprojects/MNIST-CNN)  
-  CNN model in TensorFlow to classify handwritten digits (0-9) with high accuracy.
-
-- 🔹 [Titanic Survival Prediction](https://github.com/ashusprojects/Titanic-ML)  
-  Machine learning model to predict survival on the Titanic using data preprocessing and visualization.
 
 ---
 
